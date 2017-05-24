@@ -1,4 +1,5 @@
 # nori
+<<<<<<< HEAD
 Custom osu! skin curated by myself.
 
 ### Songlist
@@ -15,3 +16,6 @@ This skin has resources collected from:
 - Aesthetic 1.2 (Ring)
 - Kantoku NSFW
 - newShige1
+=======
+osu skin
+>>>>>>> origin/master
